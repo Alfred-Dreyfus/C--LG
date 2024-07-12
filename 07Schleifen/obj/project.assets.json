@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\07Schleifen\\07Schleifen.csproj",
+      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\07Schleifen\\07Schleifen.csproj",
       "projectName": "07Schleifen",
-      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\07Schleifen\\07Schleifen.csproj",
+      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\07Schleifen\\07Schleifen.csproj",
       "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\07Schleifen\\obj\\",
+      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\07Schleifen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

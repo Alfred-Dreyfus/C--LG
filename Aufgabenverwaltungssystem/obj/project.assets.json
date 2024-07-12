@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgabenverwaltungssystem\\Aufgabenverwaltungssystem.csproj",
+      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgabenverwaltungssystem\\Aufgabenverwaltungssystem.csproj",
       "projectName": "Aufgabenverwaltungssystem",
-      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgabenverwaltungssystem\\Aufgabenverwaltungssystem.csproj",
+      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgabenverwaltungssystem\\Aufgabenverwaltungssystem.csproj",
       "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgabenverwaltungssystem\\obj\\",
+      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgabenverwaltungssystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

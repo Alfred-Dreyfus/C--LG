@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Buchverwaltungssystem\\Buchverwaltungssystem.csproj",
+      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Buchverwaltungssystem\\Buchverwaltungssystem.csproj",
       "projectName": "Buchverwaltungssystem",
-      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Buchverwaltungssystem\\Buchverwaltungssystem.csproj",
+      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Buchverwaltungssystem\\Buchverwaltungssystem.csproj",
       "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Buchverwaltungssystem\\obj\\",
+      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Buchverwaltungssystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

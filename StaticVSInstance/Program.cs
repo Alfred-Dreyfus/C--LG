@@ -4,7 +4,7 @@ using System.ComponentModel.Design;
 int numberInput1 = 0;
 int numberInput2 = 0;
 int result = 0;
-double area = 0;
+double fläche = 0;
 /*
 
 Calculator c = new Calculator();
@@ -48,7 +48,7 @@ do
 {
   Console.Clear();
   Console.WriteLine("Was willst du rechnen?");
-  Console.WriteLine("\t1. Add\n\t2. Subtract\n\t3. Multiply\n\t4. Divide\n\t5. Calculate Area\n\t6. Calculate Perimeter");
+  Console.WriteLine("\t1. Add\n\t2. Subtract\n\t3. Multiply\n\t4. Divide\n\t5. Calculate Fläche\n\t6. Calculate Perimeter");
   var menuInput = Console.ReadLine();
   int menuInputIndex = int.Parse(menuInput);
 
@@ -76,7 +76,7 @@ do
   else if (menuInputIndex == 5 || menuInputIndex == 6)
   {
     Console.WriteLine("Wähle die Form:");
-    Console.WriteLine("\t1. Triangle\n\t2. Circle\n\t3. Rectangle");
+    Console.WriteLine("\t1. Dreieck\n\t2. Kreis\n\t3. Rechtecken");
     var shapeInput = Console.ReadLine();
     int shapeInputIndex = int.Parse(shapeInput);
     Shape shape = (Shape)shapeInputIndex;
@@ -86,43 +86,43 @@ do
 
     if (menuInputIndex == 5)
     {
-      if (Shape.Triangle == shape)
+      if (Shape.Dreieck == shape)
       {
-        double baseTriangle = Calculator.GetNumberInput("Gebe die Basis des Dreiecks ein: ");
-        double heightTriangle = Calculator.GetNumberInput("Gebe die Höhe des Dreiecks ein: ");
-        Calculator.CalculateArea(shape, baseTriangle, heightTriangle);
+        double baseDreieck = Calculator.GetNumberInput("Gebe die Basis des Dreiecks ein: ");
+        double heightDreieck = Calculator.GetNumberInput("Gebe die Höhe des Dreiecks ein: ");
+        Calculator.CalculateFläche(shape, baseDreieck, heightDreieck);
       }
-      else if (Shape.Circle == shape)
+      else if (Shape.Kreis == shape)
       {
-        double radiusCircle = Calculator.GetNumberInput("Gebe den Radius des Kreises ein: ");
-        Calculator.CalculateArea(shape, radiusCircle);
+        double radiusKreis = Calculator.GetNumberInput("Gebe den Radius des Kreises ein: ");
+        Calculator.CalculateFläche(shape, radiusKreis);
       }
-      else if (Shape.Rectangle == shape) 
+      else if (Shape.Rechtecken == shape) 
       {
-        double lengthRectangle = Calculator.GetNumberInput("Gebe die Länge des Rechtecks ein: ");
-        double widthRectangle = Calculator.GetNumberInput("Gebe die Breite des Rechtecks ein: ");
-        Calculator.CalculateArea(lengthRectangle, widthRectangle, shape);
+        double lengthRechtecken = Calculator.GetNumberInput("Gebe die Länge des Rechtecks ein: ");
+        double widthRechtecken = Calculator.GetNumberInput("Gebe die Breite des Rechtecks ein: ");
+        Calculator.CalculateFläche(lengthRechtecken, widthRechtecken, shape);
       }    
     }
     else
     {
-      if (Shape.Triangle == shape)
+      if (Shape.Dreieck == shape)
       {
         double side1 = Calculator.GetNumberInput("Gebe die erste Seite des Dreiecks ein: ");
         double side2 = Calculator.GetNumberInput("Gebe die zweite Seite des Dreiecks ein: ");
         double side3 = Calculator.GetNumberInput("Gebe die dritte Seite des Dreiecks ein: ");
         Calculator.CalculatePerimeter(shape, side1, side2, side3);
       }
-      else if (Shape.Circle == shape)
+      else if (Shape.Kreis == shape)
       {
-        double radiusCircle = Calculator.GetNumberInput("Gebe den Radius des Kreises ein: ");
-        Calculator.CalculatePerimeter(shape, radiusCircle);
+        double radiusKreis = Calculator.GetNumberInput("Gebe den Radius des Kreises ein: ");
+        Calculator.CalculatePerimeter(shape, radiusKreis);
       }
-      else if (Shape.Rectangle == shape)
+      else if (Shape.Rechtecken == shape)
       {
-        double lengthRectangle = Calculator.GetNumberInput("Gebe die Länge des Rechtecks ein: ");
-        double widthRectangle = Calculator.GetNumberInput("Gebe die Breite des Rechtecks ein: ");
-        Calculator.CalculatePerimeter(shape, lengthRectangle, widthRectangle);
+        double lengthRechtecken = Calculator.GetNumberInput("Gebe die Länge des Rechtecks ein: ");
+        double widthRechtecken = Calculator.GetNumberInput("Gebe die Breite des Rechtecks ein: ");
+        Calculator.CalculatePerimeter(shape, lengthRechtecken, widthRechtecken);
       }
     }
   }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\04Casting\\04Casting.csproj",
+      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\04Casting\\04Casting.csproj",
       "projectName": "04Casting",
-      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\04Casting\\04Casting.csproj",
+      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\04Casting\\04Casting.csproj",
       "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\04Casting\\obj\\",
+      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\04Casting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

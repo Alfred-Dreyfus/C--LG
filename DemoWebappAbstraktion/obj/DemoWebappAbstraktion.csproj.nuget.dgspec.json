@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj": {}
+    "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj": {
+    "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj",
+        "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj",
         "projectName": "DemoWebappAbstraktion",
-        "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj",
+        "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\DemoWebappAbstraktion\\DemoWebappAbstraktion.csproj",
         "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\DemoWebappAbstraktion\\obj\\",
+        "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\DemoWebappAbstraktion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Concepts\\Concepts.csproj",
+      "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Concepts\\Concepts.csproj",
       "projectName": "Concepts",
-      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Concepts\\Concepts.csproj",
+      "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Concepts\\Concepts.csproj",
       "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Concepts\\obj\\",
+      "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Concepts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\ExpensesTracker\\ExpensesTracker.csproj": {}
+    "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\ExpensesTracker\\ExpensesTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\ExpensesTracker\\ExpensesTracker.csproj": {
+    "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\ExpensesTracker\\ExpensesTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\ExpensesTracker\\ExpensesTracker.csproj",
+        "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\ExpensesTracker\\ExpensesTracker.csproj",
         "projectName": "ExpensesTracker",
-        "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\ExpensesTracker\\ExpensesTracker.csproj",
+        "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\ExpensesTracker\\ExpensesTracker.csproj",
         "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\ExpensesTracker\\obj\\",
+        "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\ExpensesTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

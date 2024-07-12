@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgaben\\Aufgaben.csproj": {}
+    "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgaben\\Aufgaben.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgaben\\Aufgaben.csproj": {
+    "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgaben\\Aufgaben.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgaben\\Aufgaben.csproj",
+        "projectUniqueName": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgaben\\Aufgaben.csproj",
         "projectName": "Aufgaben",
-        "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgaben\\Aufgaben.csproj",
+        "projectPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgaben\\Aufgaben.csproj",
         "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\Tobias-Grundlagen\\Aufgaben\\obj\\",
+        "outputPath": "C:\\Users\\erdem\\OneDrive\\Desktop\\C--LG\\Aufgaben\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -48,42 +48,42 @@
       Console.ReadKey();
       return result;
     }
-    public static void CalculateArea(Shape shape, double baseTriangle, double heightTriangle)
+    public static void CalculateFläche(Shape shape, double baseDreieck, double heightDreieck)
     {
-      double area = 0;
+      double fläche = 0;
       switch (shape)
       {
-        case Shape.Triangle:
-          area = 0.5 * baseTriangle * heightTriangle;
+        case Shape.Dreieck:
+          fläche = 0.5 * baseDreieck * heightDreieck;
           break;
       }
-      Console.WriteLine($"Die Fläche des {shape} beträgt: {area}");
+      Console.WriteLine($"Die Fläche des {shape} beträgt: {fläche}");
       Console.WriteLine("Drücke irgendwas für eine neue Berechnung");
       Console.ReadKey();
     }
-    public static void CalculateArea(Shape shape, double radiusCircle)
+    public static void CalculateFläche(Shape shape, double radiusKreis)
     {
-      double area = 0;
+      double fläche = 0;
       switch (shape)
       {
-        case Shape.Circle:
-          area = Math.PI * radiusCircle * radiusCircle;
+        case Shape.Kreis:
+          fläche = Math.PI * radiusKreis * radiusKreis;
           break;
       }
-      Console.WriteLine($"Die Fläche des {shape} beträgt: {area}");
+      Console.WriteLine($"Die Fläche des {shape} beträgt: {fläche}");
       Console.WriteLine("Drücke irgendwas für eine neue Berechnung");
       Console.ReadKey();
     }
-    public static void CalculateArea(double widthRectangle, double lengthRectangle, Shape shape)
+    public static void CalculateFläche(double widthRechtecken, double lengthRechtecken, Shape shape)
     {
-      double area = 0;
+      double fläche = 0;
       switch (shape)
       {
-        case Shape.Rectangle:
-          area = lengthRectangle * widthRectangle;
+        case Shape.Rechtecken:
+          fläche = lengthRechtecken * widthRechtecken;
           break;
       }
-      Console.WriteLine($"Die Fläche des {shape} beträgt: {area}");
+      Console.WriteLine($"Die Fläche des {shape} beträgt: {fläche}");
       Console.WriteLine("Drücke irgendwas für eine neue Berechnung");
       Console.ReadKey();
     }
@@ -92,7 +92,7 @@
       double perimeter = 0;
       switch (shape)
       {
-        case Shape.Triangle:
+        case Shape.Dreieck:
 
           perimeter = side1 + side2 + side3;
           break;
@@ -101,29 +101,29 @@
       Console.WriteLine("Drücke irgendwas für eine neue Berechnung");
       Console.ReadKey();
     }
-    public static void CalculatePerimeter(Shape shape, double radiusCircle)
+    public static void CalculatePerimeter(Shape shape, double radiusKreis)
     {
       double perimeter = 0;
       switch (shape)
       {
 
-        case Shape.Circle:
+        case Shape.Kreis:
 
-          perimeter = 2 * Math.PI * radiusCircle;
+          perimeter = 2 * Math.PI * radiusKreis;
           break;
       }
       Console.WriteLine($"Der Umfang des {shape} beträgt: {perimeter}");
       Console.WriteLine("Drücke irgendwas für eine neue Berechnung");
       Console.ReadKey();
     }
-    public static void CalculatePerimeter(Shape shape, double lengthRectangle, double widthRectangle)
+    public static void CalculatePerimeter(Shape shape, double lengthRechtecken, double widthRechtecken)
     {
       double perimeter = 0;
       switch (shape)
       {
 
-        case Shape.Rectangle:
-          perimeter = 2 * (lengthRectangle + widthRectangle);
+        case Shape.Rechtecken:
+          perimeter = 2 * (lengthRechtecken + widthRechtecken);
           break;
       }
       Console.WriteLine($"Der Umfang des {shape} beträgt: {perimeter}");
@@ -200,8 +200,8 @@
   }
   public enum Shape
   {
-    Triangle = 1,
-    Circle = 2,
-    Rectangle = 3
+    Dreieck = 1,
+    Kreis = 2,
+    Rechtecken = 3
   }
 }
